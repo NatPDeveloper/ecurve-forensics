@@ -1,0 +1,16 @@
+{
+  "name": "batch_transfers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NatPDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "type": "commonjs"
+}
